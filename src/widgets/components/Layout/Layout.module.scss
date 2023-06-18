@@ -1,0 +1,18 @@
+@import "/src/app/styles/variables";
+
+.wrapper {
+  background: url("/img/bg.webp") no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  position: relative;
+}
+
+.main {
+  position: relative;
+  z-index: 2;
+}
+
+body {
+  background: #101218;
+}
