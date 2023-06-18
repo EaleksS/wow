@@ -1,6 +1,6 @@
 import { FC } from "react";
 import styles from "./Nav.module.scss";
-import { Button, Text } from "../../../shared";
+import { Text } from "../../../shared";
 
 export const Nav: FC = (): JSX.Element => {
   return (

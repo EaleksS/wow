@@ -1,6 +1,6 @@
 import { FC, useEffect, useRef } from "react";
 import styles from "./Preview.module.scss";
-import { Button, Input, Text } from "../../../shared";
+import { Button, Text } from "../../../shared";
 import { motion } from "framer-motion";
 
 export const Preview: FC = (): JSX.Element => {
